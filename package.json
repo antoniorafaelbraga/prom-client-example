@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michelsb/prom-client-example.git"
+    "url": "git+https://github.com/antoniorafaelbraga/prom-client-example.git"
   },
   "author": "Michel Sales",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michelsb/prom-client-example/issues"
+    "url": "https://github.com/antoniorafaelbraga/prom-client-example/issues"
   },
-  "homepage": "https://github.com/michelsb/prom-client-example#readme",
+  "homepage": "https://github.com/antoniorafaelbraga/prom-client-example#readme",
   "dependencies": {
     "express": "^4.18.1",
     "prom-client": "^14.0.1"
